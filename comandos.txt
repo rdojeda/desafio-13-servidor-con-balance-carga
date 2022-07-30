@@ -1,0 +1,7 @@
+$ pm2 start server.js --name="Server1" --watch  -i max -- 8081
+$ pm2 start server.js --name="Server2" --watch -- 8082
+$ pm2 start server.js --name="Server3" --watch -- 8083
+$ pm2 start server.js --name="Server4" --watch -- 8084
+$ pm2 start server.js --name="Server5" --watch -- 8085
+
+
